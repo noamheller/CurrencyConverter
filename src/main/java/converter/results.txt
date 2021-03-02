@@ -1,0 +1,4 @@
+your converts history: 
+7.04 , Dollars to Shekels
+0.8400000000000001 , Shekels to Dollars
+thanks for using our currency converter!
